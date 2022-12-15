@@ -3,7 +3,7 @@
 ### Bem vindo ao meu perfil do GitHub 
 
 🌱 Processo de mudança de carreira <br>
-☕ Aprendiz de Java
+☕ Aprendiz de Java <br>
 👾 Se aventurando em Front end também
 <br><br>
 <div>
